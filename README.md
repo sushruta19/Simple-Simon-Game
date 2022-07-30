@@ -1,5 +1,7 @@
 # Simple-Simon-Game
 It's a game to test short term memory skills.
+<br>
+Play the Game - [Simon's Game](https://sushruta19.github.io/Simple-Simon-Game/)
 
 ## Rules to play
 - There are four colored buttons. Every level consists of buttons flashing in random order.
